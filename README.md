@@ -21,7 +21,7 @@
   </p>
 </p>
 
-## Usage: 
+## Usage
 Event attendees will use the app on their phones, it needs to be fast and performant, especially on mobile. But the application loads very slowly when the client tries to simulate a 4G internet connection using Chrome DevTools. 
 
 Application is now optimized by minifying assets, adding offline functionality, and turning it into a Progressive Web Application (PWA).
@@ -30,7 +30,6 @@ Application is now optimized by minifying assets, adding offline functionality, 
 - Optimize CSS, JavaScript, and media assets for performance.
 - Set up webpack in a new front-end project.
 - Use service workers to cache assets for offline functionality.
-
 
 ## Tools Used
 * Google Lighthouse is a tool that helps improve the performance of web applications by providing audits for performance, accessibility, Progressive Web Apps, and more.
